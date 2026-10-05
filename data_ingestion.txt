@@ -1,2 +1,11 @@
+
 hey hi i'm not ingesting data in this file (bug is fixed). 
 data ingestion is done!
+
+hey hi i'm ingesting data in this file 
+data ingestion is done!
+
+hi, I'm learning git.
+
+I am fixing this bug.
+>>>>>>> bugfix2
