@@ -8,4 +8,5 @@ data ingestion is done!
 hi, I'm learning git.
 
 I am fixing this bug.
->>>>>>> bugfix2
+ 
+ I am ingesting big data
